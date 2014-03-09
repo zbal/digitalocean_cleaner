@@ -1,0 +1,2 @@
+#!/bin/bash
+python -m do.digitalocean_cleaner
