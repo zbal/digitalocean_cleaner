@@ -22,6 +22,6 @@ setup(
        'do',
     ],
     install_requires = [
-        'dopy'
+        'dopy >= 0.3.0'
     ],
 )
