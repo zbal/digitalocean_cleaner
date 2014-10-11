@@ -6,7 +6,7 @@ except ImportError:
 
 setup(
     name='digitalocean_cleaner',
-    version='0.0.1',
+    version='0.0.2',
     description='Digital Ocean Droplet cleaner.',
     url = 'https://github.com/zbal/digitalocean_cleaner',
     author='Vincent Viallet',
